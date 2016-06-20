@@ -1,0 +1,26 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2016/06/21, 0:06:10
+    Author     : sawadakazuto
+*/
+
+/*表示位置調整*/
+.margin-top-20{
+    margin-top: 20px;
+}
+.margin-top-30{
+    margin-top: 30px;
+}
+.margin-top-50{
+    margin-top: 50px;
+}
+
+/*画像サイズ調整*/
+.img-size{
+    width: 300px;
+    height: 300px;
+}
